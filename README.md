@@ -65,7 +65,7 @@ Atualmente estou aprimorando minhas habilidades em:
 - Padrões de Design em C#
 - Desenvolvimento front-end moderno
 - Soluções mobile com Xamarin
-- Soluções mobile e Web com Asp.Net e Blazor 8
+- Soluções mobile e Web com ASP.NET Core e Blazor 8
 
 ### Contato
 
