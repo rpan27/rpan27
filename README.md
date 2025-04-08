@@ -25,6 +25,12 @@ Sou um desenvolvedor com experiência desde 2014, especializado em tecnologias M
   - JavaScript
   - HTML e CSS
 
+### Formação Acadêmica
+
+- **Instituto Vianna Júnior**
+  - Análise e Desenvolvimento de Sistemas, Tecnologia da Informação
+  - Agosto de 2018 - Fevereiro de 2022
+
 ### Competências Técnicas
 
 #### Back-end
@@ -63,7 +69,7 @@ Atualmente estou aprimorando minhas habilidades em:
 ### Contato
 
 - **Email**: [seu.email@exemplo.com]
-- **LinkedIn**: [linkedin.com/in/seu-perfil]
+- **LinkedIn**: [Ronny Nascimento](https://www.linkedin.com/in/ronny-nascimento-821a7024/)
 - **GitHub**: [@rpan27](https://github.com/rpan27)
 
 ---
