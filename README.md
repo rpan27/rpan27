@@ -65,10 +65,11 @@ Atualmente estou aprimorando minhas habilidades em:
 - Padrões de Design em C#
 - Desenvolvimento front-end moderno
 - Soluções mobile com Xamarin
+- Soluções mobile e Web com Asp.Net e Blazor 8
 
 ### Contato
 
-- **Email**: [seu.email@exemplo.com]
+- **Email**: [new_rpan27@hotmail.com]
 - **LinkedIn**: [Ronny Nascimento](https://www.linkedin.com/in/ronny-nascimento-821a7024/)
 - **GitHub**: [@rpan27](https://github.com/rpan27)
 
